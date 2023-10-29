@@ -6,4 +6,4 @@ if this is your intent.
 
 Otherwise, have fun. 
 
-#Be curious, open minded and adaptable!
+##Be curious, open minded and adaptable!
